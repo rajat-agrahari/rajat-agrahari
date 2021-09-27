@@ -10,7 +10,6 @@
 - 💬 Ask me about **website Development**
 
 - 📫 How to reach me **rajat969631@gmail.com**
-<img src="tech.jpg"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
