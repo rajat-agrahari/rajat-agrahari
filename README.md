@@ -1,3 +1,5 @@
+<img src="tech.jpg"/>
+
 <h1 align="center">Hi 👋, I'm Rajat Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
